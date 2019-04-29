@@ -621,7 +621,7 @@ table.latest td.col2 {
 .centeredDiv {
     display: flex;
     text-align: right;
-    justify-content: center;    
+    justify-content: center;
 }
 
 .brown {
@@ -658,7 +658,6 @@ table.latest td.col2 {
     color: black;
 }
 
-
 .storeDisplayImgS {
     width: 6vw;
 }
@@ -676,7 +675,7 @@ table.latest td.col2 {
 }
 
 .selectedColor {
-    border:2px solid orange;
+    border: 2px solid orange;
 }
 
 .addToCartButton {
@@ -694,4 +693,17 @@ table.latest td.col2 {
 
 #searchResults h3 {
     color: #4a69c8;
+}
+
+.text-line {
+    background-color: transparent;
+    color: #eeeeee;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #eeeeee 1px;
+    padding: 3px 10px;
+    size: 200px;
 }
