@@ -72,6 +72,11 @@ ol {
     margin-top: -1em;
 }
 
+.intro1 {
+    margin-top: -1em;
+    font-size: 90%;
+}
+
 table.latest td.col1 {
     width: 20%;
     align='left';
