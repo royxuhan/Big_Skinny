@@ -18,3 +18,8 @@ function changeColors(s) {
 	document.getElementById("blueWallet").classList.add("hide");
 	document.getElementById(s).classList.remove("hide");
 }
+
+function searchZip() {
+	var r = document.getElementById("searchResults");
+	r.classList.remove("hide");
+}

@@ -625,11 +625,11 @@ table.latest td.col2 {
 }
 
 .brown {
-    background-color: brown;
+    background-color: #804418;
 }
 
 .blue {
-    background-color: blue;
+    background-color: #3D67B8;
 }
 
 .black {
@@ -641,11 +641,11 @@ table.latest td.col2 {
 }
 
 .red {
-    background-color: red;
+    background-color: #b22524;
 }
 
 .orange {
-    background-color: orange;
+    background-color: #f88379;
 }
 
 .clickable {
@@ -690,4 +690,8 @@ table.latest td.col2 {
 
 .hide {
     display: none;
+}
+
+#searchResults h3 {
+    color: #4a69c8;
 }
